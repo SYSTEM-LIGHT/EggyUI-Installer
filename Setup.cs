@@ -21,7 +21,7 @@ namespace EggyUI_Setup
         public static void ExpandFile()
         {
             // 解压文件并等待完成
-            var process = Process.Start("7z.exe", ("x .\\EggyResource.7z -o\"" + SourcePath + "\" -aoa"));
+            var process = Process.Start("7z.exe", ("x .\\EggyResource.7z -o\"" + SourcePath + "\" -pEggyUI2025 -aoa"));
             process?.WaitForExit();
         }
 
