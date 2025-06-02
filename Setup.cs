@@ -7,9 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* 这是Eggy UI 3.0安装程序的代码。
- * 作者：SYSTEM-LIGHT
- * 作者B站主页：https://space.bilibili.com/1591761987
- * 作者蛋仔派对ID：实况主灯塔
+ * 作者：冷落的小情绪
+ * 作者B站主页：https://space.bilibili.com/3546772339165612
+ * 作者蛋仔派对ID：冷落的小情绪
  * 欢迎来到Eggy UI官方QQ群：882583677 */
 
 namespace EggyUI_Setup
